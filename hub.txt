@@ -1,0 +1,11 @@
+track gps2_track
+type bed 3
+bigDataUrl https://drive.google.com/uc?export=download&id=16WJTTLXurzUNCIuZaaVtEzobPK9ICIQV
+shortLabel GPS2
+longLabel GPS2 ChIP-Seq peaks in MCF-7 cells
+
+track hdac3_track
+type bed 3
+bigDataUrl https://drive.google.com/uc?export=download&id=1vMhjBUG0xY5JJalNDcL71gtpImD8TZLR
+shortLabel HDAC3
+longLabel HDAC3 ChIP-Seq peaks in MCF-7 cells
