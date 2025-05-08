@@ -1,0 +1,25 @@
+[
+    {
+      "url": "GPS2_sorted.bed.gz",
+      "type": "bed",
+      "name": "GPS2",
+      "mode": "full",
+      "showOnHubLoad": true,
+      "options": {
+        "color": "#0044cc",
+        "height": 50
+      }
+    },
+    {
+      "url": "HDAC3_sorted.bed.gz",
+      "type": "bed",
+      "name": "HDAC3",
+      "mode": "full",
+      "showOnHubLoad": true,
+      "options": {
+        "color": "#cc0000",
+        "height": 50
+      }
+    }
+  ]
+  
